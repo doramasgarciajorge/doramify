@@ -1,8 +1,4 @@
 # Doramify
-Doramify is a simple Android app made when I was a student.
-
-
-# Cuestamap
 Doramify is an Android music player app. It offers the basics of any music player: change songs, shuffle, repeat...
 
 > [!NOTE]  
